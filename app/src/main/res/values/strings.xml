@@ -25,4 +25,6 @@
     <string name="edit">Sửa</string>
     <string name="delete">Xóa</string>
     <string name="dialog_confirm_delete">Bạn có muốn xóa công việc này?</string>
+    <string name="title_activity_main_task">Công việc phải thực hiện</string>
+    <string name="title_activity_new_task">Tạo mới công việc</string>
 </resources>

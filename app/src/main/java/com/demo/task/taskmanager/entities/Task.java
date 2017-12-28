@@ -1,12 +1,13 @@
 package com.demo.task.taskmanager.entities;
 
+import java.io.Serializable;
 import java.util.Date;
 
 /**
  * Created by Quy Duc on 12/20/2017.
  */
 
-public class Task {
+public class Task implements Serializable {
     private String TaskID;
     private String Title;
     private String Description;
